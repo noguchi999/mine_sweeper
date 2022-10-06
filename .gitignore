@@ -1,0 +1,6 @@
+*.log
+images/
+lib/
+config/
+*.xlsx
+temp/
